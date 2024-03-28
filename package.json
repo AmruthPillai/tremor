@@ -44,7 +44,7 @@
     "@storybook/addon-interactions": "^6.5.0-alpha.64",
     "@storybook/addon-links": "^6.5.0-alpha.64",
     "@storybook/addon-postcss": "^2.0.0",
-    "@storybook/react": "^6.5.0-alpha.64",
+    "@storybook/react": "^8.0.5",
     "@storybook/testing-library": "^0.0.10",
     "@testing-library/react": "^13.1.1",
     "@types/jest": "^27.4.1",
